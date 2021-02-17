@@ -1,8 +1,8 @@
 # Master_Repository
 
 
--Votsboro (short fiction)
+-[Votsboro](https://github.com/MattTheBobcat/VOTSBORO/blob/master/README.md) (short fiction)
 
--Ramblings (poetry)
+-[Ramblings](https://github.com/MattTheBobcat/RAMBLINGS/blob/master/README.md) (poetry)
 
--theBXBCATS (music project)
+-[theBXBCATS](https://youtube.com/playlist?list=PLoqfoqMORi8nQj4l03h8KPFs2JNZHGpDC) (music project)
