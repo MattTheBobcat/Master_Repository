@@ -7,4 +7,4 @@
 
 -[YouTube Channel](https://www.youtube.com/channel/UC_s-VK6XwokSy5d3wrHNXOQ)
 
--[Substack Music Blog](mattthebobcat.substack.com)
+-[Substack Music Blog](https://substack.com/@mattthebobcat)
