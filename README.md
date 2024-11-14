@@ -1,10 +1,10 @@
 # Master_Repository
 
 
--[Votsboro](https://github.com/MattTheBobcat/VOTSBORO/blob/master/README.md) (short fiction)
+- [Votsboro](https://github.com/MattTheBobcat/VOTSBORO/blob/master/README.md) (short fiction)
 
--[Ramblings](https://github.com/MattTheBobcat/RAMBLINGS/blob/master/README.md) (poetry)
+- [Ramblings](https://github.com/MattTheBobcat/RAMBLINGS/blob/master/README.md) (poetry)
 
--[YouTube](https://www.youtube.com/channel/UC_s-VK6XwokSy5d3wrHNXOQ)
+- [YouTube](https://www.youtube.com/channel/UC_s-VK6XwokSy5d3wrHNXOQ)
 
--[Substack](https://substack.com/@mattthebobcat)
+- [Substack](https://substack.com/@mattthebobcat)
